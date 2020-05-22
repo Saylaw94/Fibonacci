@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="son_kiriting">Son kiriting</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="san_kiritin">San kiritin`</string>
+<!--    <string name="fibonacci">Fibonacci</string>-->
+</resources>
